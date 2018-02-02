@@ -1,0 +1,2 @@
+print("Learn how to use GIT!")
+print("It's necessary for our work")
